@@ -48,3 +48,8 @@
 10. **Enjoy!**
     - Have fun playing the Anti Chess game!
 
+11. **Screenshots**
+![Screenshot Description](path/to/your/screenshot.png)
+![Screenshot Description](path/to/your/screenshot.png)
+
+
