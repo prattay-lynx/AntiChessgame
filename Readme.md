@@ -50,6 +50,8 @@
 
 11. **Screenshots**
 ![Screenshot Description](https://github.com/prattay-lynx/AntiChessgame/blob/main/Images/Capture1.PNG)
-![Screenshot Description](path/to/your/screenshot.png)
+
+
+![Screenshot Description](https://github.com/prattay-lynx/AntiChessgame/blob/main/Images/Capture2.PNG)
 
 
