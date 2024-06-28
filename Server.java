@@ -14,7 +14,7 @@ public class Server {
             Socket player2 = serverSocket.accept();
             System.out.println("Player 2 connected.");
 
-            ChessGameMain gameHandler = new ChessGameMain(player1, player2);
+            GameHandler gameHandler = new GameHandler(player1, player2);
             gameHandler.startGame();
         } catch (IOException e) {
             e.printStackTrace();

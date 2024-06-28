@@ -1,5 +1,6 @@
 public abstract class Piece {
-    protected char color; // 'W' for white, 'B' for black
+    // For color convention: 'W' for white, 'B' for black
+    protected char color;
 
     public Piece(char color) {
         this.color = color;
